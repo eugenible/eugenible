@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @eugenible
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hey there, Ny name is Evgeny and currently I live in Novosibirsk, - a cold city in the center of Russia
+- 👀 I’m a big fan of Formula 1, memes and a good thick tasty piece of lasagne 🤤
+- 🌱 I’m currently learning Java and Spring 
+- 💞️ I’m looking to collaborate on whatever makes our lives better
+- 📫 How to reach me:
+
+Telegram: @yavporyade
+VK: https://vk.com/tretiakovporyade
 
 <!---
 eugenible/eugenible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
