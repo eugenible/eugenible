@@ -6,6 +6,8 @@
 
 Telegram: [@yavporyade](https://t.me/yavporyade)
 
+[<img alt="Telegram" width="50px" src="resources/telegram.png" />](https://t.me/yavporyade)
+
 VK: https://vk.com/tretiakovporyade
 
 <!---
