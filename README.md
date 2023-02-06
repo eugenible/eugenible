@@ -3,11 +3,11 @@
 - 🌱 I’m currently working with Java and Spring
 - 💞️ I’m looking to collaborate on projects related to backend processes
 
-<p style="text-align:center">Contact me:</p>
+<p>Contact me:</p>
 
-<p align="center">
+<p align="left">
 <a href="https://t.me/yavporyade"><img width="50px" src="resources/telegram.png"></a>
-<a href="vk.com/tretiakovporyade"><img width="50px" src="resources/vk.png"></a>
+<a href="https://vk.com/tretiakovporyade"><img width="50px" src="resources/vk.png"></a>
 </p>
 
 
